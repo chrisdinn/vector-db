@@ -5,8 +5,8 @@ import (
 	"testing"
 
 	"github.com/bmizerany/assert"
-	imath "github.com/tobias-mayer/vector-db/internal/math"
-	itesting "github.com/tobias-mayer/vector-db/internal/testing"
+	imath "github.com/chrisdinn/vector-db/internal/math"
+	itesting "github.com/chrisdinn/vector-db/internal/testing"
 )
 
 // nolint: dupl

@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/tobias-mayer/vector-db/pkg/index"
+	"github.com/chrisdinn/vector-db/index"
 )
 
 func main() {

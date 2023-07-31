@@ -2,7 +2,7 @@ package index
 
 import (
 	"github.com/google/uuid"
-	imath "github.com/tobias-mayer/vector-db/internal/math"
+	imath "github.com/chrisdinn/vector-db/internal/math"
 )
 
 type treeNode[T comparable] struct {

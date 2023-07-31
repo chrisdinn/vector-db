@@ -9,7 +9,7 @@ import (
 	"time"
 
 	"github.com/google/uuid"
-	imath "github.com/tobias-mayer/vector-db/internal/math"
+	imath "github.com/chrisdinn/vector-db/internal/math"
 )
 
 const (

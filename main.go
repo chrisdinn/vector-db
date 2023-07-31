@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/tobias-mayer/vector-db/cmd"
+	"github.com/chrisdinn/vector-db/cmd"
 )
 
 var version = ""
