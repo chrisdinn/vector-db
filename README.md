@@ -50,3 +50,4 @@ pre-commit                     run pre-commit hooks
 run                            run the app
 test                           display test coverage
 ```
+  
